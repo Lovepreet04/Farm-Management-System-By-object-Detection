@@ -41,5 +41,6 @@ Usage:
 Launch the application and start the webcam to monitor your plants.
 Use the interface to capture images and analyze leaf health.
 Review the predictions and insights provided by the system.
+
 Demo
 Watch a demo of the application in action: 
