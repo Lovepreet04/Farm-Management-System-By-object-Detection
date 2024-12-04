@@ -45,4 +45,4 @@ Use the interface to capture images and analyze leaf health.
 Review the predictions and insights provided by the system.
 
 Demo
-Watch a demo of the application in action: 
+Watch a demo of the application in action: https://drive.google.com/file/d/1HH4nTptJW2BlnWIerYkcBUWE0hxYHT21/view
