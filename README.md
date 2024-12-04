@@ -28,12 +28,13 @@ Dataset: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 Installation
 1. Clone the repository: 
 git clone https://github.com/Lovepreet04/Farm-Management-System-By-object-Detection.git
+
 cd Farm-Management-System-By-object-Detection
 
-2. Install the required packages:
+3. Install the required packages:
 pip install -r requirements.txt
 
-3. Run the application:
+4. Run the application:
 python main.py
 
 
